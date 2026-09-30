@@ -1,0 +1,6 @@
+{
+  "name": "OvinaCloud",
+  "description": "Enterprise-grade Sheep Farm Management & Livestock Tracking System with real-time biometric records, 150-day gestation alerts, and herd valuation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
